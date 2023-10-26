@@ -1,0 +1,15 @@
+C:\Users\aliha\Desktop\send\send\bin\Debug\net6.0\send.exe
+C:\Users\aliha\Desktop\send\send\bin\Debug\net6.0\send.deps.json
+C:\Users\aliha\Desktop\send\send\bin\Debug\net6.0\send.runtimeconfig.json
+C:\Users\aliha\Desktop\send\send\bin\Debug\net6.0\send.dll
+C:\Users\aliha\Desktop\send\send\bin\Debug\net6.0\send.pdb
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.csproj.AssemblyReference.cache
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.AssemblyInfoInputs.cache
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.AssemblyInfo.cs
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.csproj.CoreCompileInputs.cache
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.dll
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\refint\send.dll
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.pdb
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\send.genruntimeconfig.cache
+C:\Users\aliha\Desktop\send\send\obj\Debug\net6.0\ref\send.dll

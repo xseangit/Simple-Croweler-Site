@@ -1,0 +1,76 @@
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\appsettings.json
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\crowle.exe
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\crowle.deps.json
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\crowle.runtimeconfig.json
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\crowle.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\crowle.pdb
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.crowle.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.build.crowle.props
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.crowle.props
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.crowle.props
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\scopedcss\bundle\crowle.styles.css
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.csproj.CopyComplete
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.dll
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\refint\crowle.dll
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.pdb
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\crowle.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\crowle\obj\Debug\net7.0\ref\crowle.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\crowle\bin\Debug\net7.0\WebDriver.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\appsettings.json
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\crowle.exe
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\crowle.deps.json
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\crowle.runtimeconfig.json
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\crowle.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\crowle.pdb
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\WebDriver.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mr XSean\Desktop\crowle\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.csproj.AssemblyReference.cache
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.AssemblyInfoInputs.cache
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.AssemblyInfo.cs
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.csproj.CoreCompileInputs.cache
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.crowle.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.build.crowle.props
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.crowle.props
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.crowle.props
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\scopedcss\bundle\crowle.styles.css
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.csproj.CopyComplete
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.dll
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\refint\crowle.dll
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.pdb
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\crowle.genruntimeconfig.cache
+C:\Users\Mr XSean\Desktop\crowle\obj\Debug\net7.0\ref\crowle.dll

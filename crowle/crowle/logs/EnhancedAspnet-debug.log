@@ -1,0 +1,256 @@
+[2023-01-28T13:22:51.937Z, PID: 22040] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 22040. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-01-28T13:22:52.101Z, PID: 22040] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:22:52.205Z, PID: 22040] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-01-28T13:22:52.263Z, PID: 22040] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:22:52.310Z, PID: 22040] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:22:52.368Z, PID: 22040] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:22:52.404Z, PID: 22040] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:22:52.462Z, PID: 22040] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-01-28T13:22:52.509Z, PID: 22040] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-01-28T13:22:52.632Z, PID: 22040] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-01-28T13:22:52.691Z, PID: 22040] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-01-28T13:22:52.760Z, PID: 22040] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:22:52.818Z, PID: 22040] [aspnetcorev2.dll] Binary type 6
+[2023-01-28T13:22:52.887Z, PID: 22040] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:22:52.956Z, PID: 22040] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-01-28T13:22:53.025Z, PID: 22040] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:22:53.095Z, PID: 22040] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:22:53.164Z, PID: 22040] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:22:53.233Z, PID: 22040] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:22:53.335Z, PID: 22040] [aspnetcorev2.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:22:53.405Z, PID: 22040] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:22:53.490Z, PID: 22040] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-01-28T13:22:53.554Z, PID: 22040] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-01-28T13:22:53.640Z, PID: 22040] [aspnetcorev2.dll] Creating handler application
+[2023-01-28T13:22:53.726Z, PID: 22040] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 22040. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-01-28T13:22:53.807Z, PID: 22040] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-01-28T13:22:53.885Z, PID: 22040] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:22:53.966Z, PID: 22040] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-01-28T13:22:53.966Z, PID: 22040] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-01-28T13:22:54.126Z, PID: 22040] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:22:54.174Z, PID: 22040] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:22:54.220Z, PID: 22040] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:22:54.266Z, PID: 22040] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:22:54.314Z, PID: 22040] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:22:54.361Z, PID: 22040] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:22:54.544Z, PID: 22040] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:22:54.593Z, PID: 22040] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-01-28T13:22:54.646Z, PID: 22040] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:22:54.694Z, PID: 22040] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:22:54.730Z, PID: 22040] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:22:54.766Z, PID: 22040] [aspnetcorev2_inprocess.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:22:54.812Z, PID: 22040] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-01-28T13:22:54.870Z, PID: 22040] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:22:54.917Z, PID: 22040] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:22:54.997Z, PID: 22040] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-01-28T13:22:55.078Z, PID: 22040] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:23:34.551Z, PID: 22040] [aspnetcorev2_inprocess.dll] Managed threw an exception -532462766
+[2023-01-28T13:23:34.718Z, PID: 22040] [aspnetcorev2_inprocess.dll] Starting shutdown sequence 1
+[2023-01-28T13:23:34.785Z, PID: 22040] [aspnetcorev2_inprocess.dll] Clr thread wait ended: clrThreadExited: 1
+[2023-01-28T13:23:34.878Z, PID: 22040] [aspnetcorev2_inprocess.dll] Event Log: 'Application '/LM/W3SVC/2/ROOT' with physical root 'D:\prj cod\Site\crowle\crowle\' hit unexpected managed exception, exception code = '0xe0434352'. First 30KB characters of captured stdout and stderr logs:
+crit: Microsoft.AspNetCore.Hosting.Diagnostics[6]
+      Application startup exception
+      System.InvalidOperationException: Application is running inside IIS process but is not configured to use IIS server.
+         at Microsoft.AspNetCore.Server.IIS.Core.IISServerSetupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+         at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+         at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+Unhandled exception. System.InvalidOperationException: Application is running inside IIS process but is not configured to use IIS server.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISServerSetupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\prj cod\Site\crowle\crowle\Program.cs:line 25
+' 
+End Event Log Message.
+[2023-01-28T13:23:34.968Z, PID: 22040] [aspnetcorev2_inprocess.dll] Canceling standard stream pipe reader
+[2023-01-28T13:23:35.026Z, PID: 22040] [aspnetcorev2_inprocess.dll] Stopping in-process worker thread
+[2023-01-28T13:23:35.084Z, PID: 22040] [aspnetcorev2_inprocess.dll] Stopping CLR
+[2023-01-28T13:23:35.142Z, PID: 22040] [aspnetcorev2_inprocess.dll] Event Log: 'Application '/LM/W3SVC/2/ROOT' with physical root 'D:\prj cod\Site\crowle\crowle\' failed to load coreclr. Exception message:
+CLR worker thread exited prematurely' 
+End Event Log Message.
+[2023-01-28T13:23:35.211Z, PID: 22040] [aspnetcorev2_inprocess.dll] InvalidOperationException 'CLR worker thread exited prematurely' caught at D:\a\_work\1\s\src\Servers\IIS\AspNetCoreModuleV2\InProcessRequestHandler\inprocessapplication.cpp:489 
+[2023-01-28T13:23:35.269Z, PID: 22040] [aspnetcorev2_inprocess.dll] Failed HRESULT returned: 0x8007023e at D:\a\_work\1\s\src\Servers\IIS\AspNetCoreModuleV2\InProcessRequestHandler\dllmain.cpp:131 
+[2023-01-28T13:23:35.327Z, PID: 22040] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:23:35.385Z, PID: 22040] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-01-28T13:24:13.302Z, PID: 28400] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 28400. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-01-28T13:24:13.489Z, PID: 28400] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:24:13.558Z, PID: 28400] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-01-28T13:24:13.627Z, PID: 28400] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:24:13.696Z, PID: 28400] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:24:13.776Z, PID: 28400] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:24:13.856Z, PID: 28400] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:24:13.936Z, PID: 28400] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-01-28T13:24:14.016Z, PID: 28400] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-01-28T13:24:14.203Z, PID: 28400] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-01-28T13:24:14.279Z, PID: 28400] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-01-28T13:24:14.372Z, PID: 28400] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:24:14.486Z, PID: 28400] [aspnetcorev2.dll] Binary type 6
+[2023-01-28T13:24:14.727Z, PID: 28400] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:24:14.800Z, PID: 28400] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-01-28T13:24:14.872Z, PID: 28400] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:24:14.930Z, PID: 28400] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:24:14.998Z, PID: 28400] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:24:15.067Z, PID: 28400] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:24:15.125Z, PID: 28400] [aspnetcorev2.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:24:15.250Z, PID: 28400] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:24:15.729Z, PID: 28400] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-01-28T13:24:15.899Z, PID: 28400] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-01-28T13:24:16.027Z, PID: 28400] [aspnetcorev2.dll] Creating handler application
+[2023-01-28T13:24:16.399Z, PID: 28400] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 28400. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-01-28T13:24:16.713Z, PID: 28400] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-01-28T13:24:17.062Z, PID: 28400] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:24:17.133Z, PID: 28400] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-01-28T13:24:17.134Z, PID: 28400] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-01-28T13:24:17.259Z, PID: 28400] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:24:17.408Z, PID: 28400] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:24:17.706Z, PID: 28400] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:24:17.929Z, PID: 28400] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:24:18.089Z, PID: 28400] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:24:18.427Z, PID: 28400] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:24:18.627Z, PID: 28400] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:24:18.852Z, PID: 28400] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-01-28T13:24:19.024Z, PID: 28400] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:24:19.251Z, PID: 28400] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:24:19.478Z, PID: 28400] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:24:19.941Z, PID: 28400] [aspnetcorev2_inprocess.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:24:20.104Z, PID: 28400] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-01-28T13:24:20.364Z, PID: 28400] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:24:20.646Z, PID: 28400] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:24:20.796Z, PID: 28400] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-01-28T13:24:21.127Z, PID: 28400] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:42:36.266Z, PID: 19992] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 19992. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-01-28T13:42:36.413Z, PID: 19992] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:42:36.468Z, PID: 19992] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-01-28T13:42:36.525Z, PID: 19992] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:42:36.589Z, PID: 19992] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:42:36.642Z, PID: 19992] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:42:36.718Z, PID: 19992] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:42:36.816Z, PID: 19992] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-01-28T13:42:36.907Z, PID: 19992] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-01-28T13:42:37.179Z, PID: 19992] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-01-28T13:42:37.331Z, PID: 19992] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-01-28T13:42:37.411Z, PID: 19992] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:42:37.525Z, PID: 19992] [aspnetcorev2.dll] Binary type 6
+[2023-01-28T13:42:37.594Z, PID: 19992] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:42:37.676Z, PID: 19992] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-01-28T13:42:37.901Z, PID: 19992] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:42:37.993Z, PID: 19992] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:42:38.095Z, PID: 19992] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:42:38.176Z, PID: 19992] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:42:38.244Z, PID: 19992] [aspnetcorev2.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:42:38.314Z, PID: 19992] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:42:38.403Z, PID: 19992] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-01-28T13:42:38.541Z, PID: 19992] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-01-28T13:42:38.724Z, PID: 19992] [aspnetcorev2.dll] Creating handler application
+[2023-01-28T13:42:38.893Z, PID: 19992] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 19992. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-01-28T13:42:39.083Z, PID: 19992] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-01-28T13:42:39.297Z, PID: 19992] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:42:39.477Z, PID: 19992] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-01-28T13:42:39.478Z, PID: 19992] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-01-28T13:42:40.070Z, PID: 19992] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:42:40.228Z, PID: 19992] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:42:40.397Z, PID: 19992] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:42:40.722Z, PID: 19992] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:42:40.958Z, PID: 19992] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:42:41.104Z, PID: 19992] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:42:41.251Z, PID: 19992] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:42:41.387Z, PID: 19992] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-01-28T13:42:41.511Z, PID: 19992] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:42:41.636Z, PID: 19992] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:42:41.771Z, PID: 19992] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:42:41.986Z, PID: 19992] [aspnetcorev2_inprocess.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:42:42.166Z, PID: 19992] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-01-28T13:42:42.312Z, PID: 19992] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:42:42.459Z, PID: 19992] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:42:42.595Z, PID: 19992] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-01-28T13:42:42.720Z, PID: 19992] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:42:45.655Z, PID: 19992] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-01-28T13:42:45.857Z, PID: 19992] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\crowle\crowle\' started successfully.' 
+End Event Log Message.
+[2023-01-28T13:42:46.096Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-01-28T13:42:46.450Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[2023-01-28T13:42:46.463Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 1
+[2023-01-28T13:42:46.929Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[2023-01-28T13:42:46.929Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 1
+[2023-01-28T13:42:46.930Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[2023-01-28T13:42:46.930Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 3
+[2023-01-28T13:42:46.930Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 4
+[2023-01-28T13:42:47.114Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 3
+[2023-01-28T13:42:47.510Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 4
+[2023-01-28T13:42:47.513Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 3
+[2023-01-28T13:42:47.638Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 2
+[2023-01-28T13:42:47.859Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 1
+[2023-01-28T13:42:48.194Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-01-28T13:42:48.256Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-01-28T13:42:48.285Z, PID: 19992] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[2023-01-28T13:42:49.215Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 1
+[2023-01-28T13:42:49.247Z, PID: 19992] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-01-28T13:47:08.506Z, PID: 11428] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 11428. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-01-28T13:47:08.757Z, PID: 11428] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:47:09.004Z, PID: 11428] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-01-28T13:47:09.284Z, PID: 11428] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:47:09.542Z, PID: 11428] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:47:09.722Z, PID: 11428] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:47:09.925Z, PID: 11428] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:47:10.094Z, PID: 11428] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-01-28T13:47:10.252Z, PID: 11428] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-01-28T13:47:10.524Z, PID: 11428] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-01-28T13:47:10.845Z, PID: 11428] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-01-28T13:47:11.037Z, PID: 11428] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:47:11.362Z, PID: 11428] [aspnetcorev2.dll] Binary type 6
+[2023-01-28T13:47:11.631Z, PID: 11428] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:47:11.822Z, PID: 11428] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-01-28T13:47:12.058Z, PID: 11428] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:47:12.238Z, PID: 11428] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:47:12.463Z, PID: 11428] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:47:12.598Z, PID: 11428] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:47:12.734Z, PID: 11428] [aspnetcorev2.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:47:12.892Z, PID: 11428] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:47:13.050Z, PID: 11428] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-01-28T13:47:13.197Z, PID: 11428] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-01-28T13:47:13.356Z, PID: 11428] [aspnetcorev2.dll] Creating handler application
+[2023-01-28T13:47:13.548Z, PID: 11428] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 11428. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-01-28T13:47:13.726Z, PID: 11428] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-01-28T13:47:13.884Z, PID: 11428] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:47:14.020Z, PID: 11428] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-01-28T13:47:14.020Z, PID: 11428] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-01-28T13:47:14.325Z, PID: 11428] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' arguments: '.\crowle.dll' path: 'D:\prj cod\Site\crowle\crowle\'
+[2023-01-28T13:47:14.461Z, PID: 11428] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:47:14.641Z, PID: 11428] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-01-28T13:47:14.799Z, PID: 11428] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:47:14.979Z, PID: 11428] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll'
+[2023-01-28T13:47:15.237Z, PID: 11428] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-01-28T13:47:15.461Z, PID: 11428] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:47:15.620Z, PID: 11428] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-01-28T13:47:15.777Z, PID: 11428] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-01-28T13:47:15.935Z, PID: 11428] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-01-28T13:47:16.093Z, PID: 11428] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll'
+[2023-01-28T13:47:16.251Z, PID: 11428] [aspnetcorev2_inprocess.dll] Argument[2] = '.\crowle.dll'
+[2023-01-28T13:47:16.409Z, PID: 11428] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-01-28T13:47:16.667Z, PID: 11428] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:47:16.847Z, PID: 11428] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-01-28T13:47:17.039Z, PID: 11428] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-01-28T13:47:17.208Z, PID: 11428] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\crowle\crowle\
+[2023-01-28T13:47:18.856Z, PID: 11428] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-01-28T13:47:19.017Z, PID: 11428] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\crowle\crowle\' started successfully.' 
+End Event Log Message.
+[2023-01-28T13:47:19.141Z, PID: 11428] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-01-28T13:47:19.539Z, PID: 11428] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-01-28T13:47:19.649Z, PID: 11428] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-01-28T13:48:08.910Z, PID: 11428] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-01-28T13:48:18.984Z, PID: 11428] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-01-28T13:48:19.206Z, PID: 11428] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-01-28T13:48:19.234Z, PID: 11428] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-01-28T13:48:20.369Z, PID: 11428] [aspnetcorev2_inprocess.dll] Removing Request 0

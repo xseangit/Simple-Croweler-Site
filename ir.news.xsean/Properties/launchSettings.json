@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ir.news.xsean": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:8625"
+    }
+  }
+}

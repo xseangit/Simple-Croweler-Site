@@ -1,0 +1,96 @@
+﻿<div class="latest-posts">
+    <div class="container-fluid">
+        <div class="col-md-9">
+            <div class="blog-title-span">
+                <span class="title">@ViewBag.cat.Name</span>
+            </div>
+            @{
+                foreach (var item in ViewBag.news)
+                {
+                    <div class="col-md-4">
+                        <div class="post-box">
+                            <a asp-action="post" asp-route-Id="@item.Id">
+                                <figure>
+                                    <img src="@item.titleimgdo" alt="">
+                                    <figcaption class="meta-fig">
+                                        <span><i class="fa fa-clock-o"></i>@item.datetime</span>&nbsp;
+                                        @{
+                                            int i = 0;
+                                            if (item.coment != null)
+                                            {
+                                                foreach (var c in item.coment)
+                                                {
+                                                    i++;    
+                                                }
+                                            }
+                                        }
+                                        <span><i class="fa fa-comment-o"></i> @i</span>
+                                    </figcaption>
+                                    <figcaption class="view">
+                                        @{
+                                            var f = @item.Catgory.Name.Split(',');
+                                            foreach (var ct in f)
+                                            {
+                                                <span>@ct</span>
+                                            }
+                                        }
+                                    </figcaption>
+                                </figure>
+                                <div class="text-p">
+                                    <h5>@item.title</h5>
+                                    @item.shorts
+                                    <div class="text-rigt">
+                                        <a asp-action="post" asp-route-Id="@item.Id">ادامه ...</a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <div class="col-md-3 main-content">
+            <div class="l-sidebar">
+                <div class="cat-sidebar">
+                    <span class="title">دسته بندی مطالب</span>
+                    <div class="text-left"><i class="fa fa-folder-o"></i></div>
+                    <ul>
+                        @foreach (var item in ViewBag.newsscat)
+                        {
+                            <li><a asp-action="cat" asp-route-Id="@item.Name">@item.Name</a><span>@item.count</span></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+            <div class="l-sidebar">
+                <div class="cat-sidebar report">
+                    <span class="title">شاید خوشتان بیاید</span>
+                    <div class="text-left"><i class="fa fa-arrows-alt"></i></div>
+                    <ul>
+                        @foreach (var item in ViewBag.newssran)
+                        {
+                            <li><a asp-action="post" asp-route-Id="@item.Id">@Html.Raw(item.title)</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination">
+                    @if(ViewBag.s>0){
+                        int b = ViewBag.s - 1;
+                        <li class="page-item"><a class="page-link" asp-action="cat" asp-route-id="@ViewBag.id" asp-route-stip="@b">قبلی</a></li>
+                    <li class="page-item"><a class="page-link" asp-action="cat" asp-route-id="@ViewBag.id" asp-route-stip="@b">@b</a></li>
+                    }
+                    <li class="page-item"><a class="page-link" asp-action="cat" asp-route-id="@ViewBag.id" asp-route-stip="@ViewBag.s">@ViewBag.s</a></li>
+                    @if (ViewBag.s <= ViewBag.n){
+                        int n = ViewBag.s + 1;
+                        <li class="page-item"><a class="page-link" asp-action="cat" asp-route-id="@ViewBag.id" asp-route-stip="@n">@n</a></li>
+                        <li class="page-item"><a class="page-link" asp-action="cat" asp-route-id="@ViewBag.id" asp-route-stip="@n">بعدی</a></li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>

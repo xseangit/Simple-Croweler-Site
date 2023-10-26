@@ -1,0 +1,163 @@
+﻿
+<head>
+	<link rel="stylesheet" href="~/css/bootstrap.css">
+	<link rel="stylesheet" href="~/css/font-awesome.min.css">
+	<link rel="stylesheet" href="~/css/owl.carousel.css">
+	<link rel="stylesheet" href="~/css/owl.theme.default.css">
+	<link rel="stylesheet" href="~/style.css">
+</head>
+<body>
+	<div class="top-bar">
+		<div class="container-fluid">
+			<div class="col-md-12">
+				<div class="latest-posts">
+					<div class="container-fluid">
+						<div class="blog-title-span">
+							<a href="/"><span class="title">XSEAN</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="search-btn">
+					<span><i class="fa fa-search"></i></span>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="top-cat-box">
+					<div class="col-md-12">
+						<div class="menu">
+							<ul>
+								<li><a href="#creator">تماس با ما</a></li>
+								<li><a href="#about">درباره ما</a></li>
+							</ul>
+						</div>
+					</div>
+					<!-- <div class="col-md-3">
+					   <div class="show-cat">
+						   <span>
+							   دسته ها
+							   <i class="fa fa-bars"></i>
+						   </span>
+					   </div>
+					   </div> -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="main-header">
+		@*<div class="container-fluid">
+			<div class="col-md-10">
+				<div class="main-menu">
+					<ul>
+
+
+						<li><a href="/Home/cat/%0Aادبیات%20و%20کتاب%0A%0A"> ادبیات و کتاب  </a></li>
+						<li><a href="/Home/cat/%0Aارتباطات%20و%20فناوری%20اطلاعات%0A%0A"> ارتباطات و فناوری اطلاعات  </a></li>
+						<li><a href="/Home/cat/%0Aآموزش%20و%20پرورش%0A%0A"> آموزش و پرورش  </a></li>
+						<li><a href="/Home/cat/%0Aانرژی%0A%0A"> انرژی  </a></li>
+					
+
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div class="social-box">
+					<ul>
+						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>*@
+	</div>
+	@RenderBody()
+	<div class="clear-fix"></div>
+	<div class="footer">
+		<div class="container-fluid">
+			<div class="col-md-5">
+				<div class="footer-box">
+					<span class="title" id="about">خبر نامه XSean</span>
+					<p>
+						تمامی مطالب این سایت توست ربات جمع اوری شده و ما هیچ کدام از مطالب را تایید نمیکنیم
+					</p>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div class="footer-box">
+					<span class="title">تلفن تماس</span>
+					<ul>
+						@*
+						<p><i class="fa fa-phone"></i> 09028468446</p>
+						<p><i class="fa fa-phone"></i> 09336636892</p>*@
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div class="footer-box">
+					<span class="title">ایمیل</span>
+					<ul>
+
+						@*	<p><i class="fa fa-envelope-o"></i> info@seo90.ir</p>*@
+
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="footer-box contact-box">
+					<span class="title">محل ما</span>
+
+					@*	<p><i class="fa fa-map-marker"></i> تبریز </p>*@
+				</div>
+			</div>
+			<div class="clear-fix"></div>
+		</div>
+	</div>
+	<div class="end-wrapper">
+		<div class="container-fluid">
+			<div class="col-md-6">
+				<div class="copy-r">
+					@*	<p>&copy; تمامی حقوق متعلق به سئو 90 می باشد</p>*@
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="creator text-left" id="creator">
+					@*	<p>طراحی سایت ، سئو 90</p>*@
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="bg"></div>
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/index.js"></script>
+	@*<script>
+	const images = document.images;
+
+	for (const element of images) {
+
+	console.log(element);
+	const toDataURL = url => fetch(url)
+	.then(response => response.blob())
+	.then(blob => new Promise((resolve, reject) => {
+	const reader = new FileReader()
+	reader.onloadend = () => resolve(reader.result)
+	reader.onerror = reject
+	reader.readAsDataURL(blob)
+	}))
+
+
+	toDataURL(element.src)
+	.then(dataUrl => {
+	console.log('RESULT:', dataUrl)
+	element.src=dataUrl
+	})
+
+	}
+
+
+	</script>*@
+</body>
+

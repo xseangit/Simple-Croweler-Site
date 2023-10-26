@@ -1,0 +1,72 @@
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\appsettings.json
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\crowle.exe
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\crowle.deps.json
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\crowle.runtimeconfig.json
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\crowle.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\crowle.pdb
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\OpenQA.Selenium.Winium.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\WebDriver.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.csproj.AssemblyReference.cache
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.AssemblyInfoInputs.cache
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.AssemblyInfo.cs
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.csproj.CoreCompileInputs.cache
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.crowle.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.build.crowle.props
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.crowle.props
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.crowle.props
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\scopedcss\bundle\crowle.styles.css
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.csproj.CopyComplete
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\refint\crowle.dll
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.pdb
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\crowle.genruntimeconfig.cache
+C:\Users\MrXsean\Desktop\crowle\crowle\obj\Debug\net6.0\ref\crowle.dll
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.csproj.AssemblyReference.cache
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.AssemblyInfoInputs.cache
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.AssemblyInfo.cs
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.csproj.CoreCompileInputs.cache
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.MvcApplicationPartsAssemblyInfo.cs
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.MvcApplicationPartsAssemblyInfo.cache
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\appsettings.Development.json
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\appsettings.json
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.exe
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.deps.json
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.runtimeconfig.json
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\crowle.pdb
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.crowle.Microsoft.AspNetCore.StaticWebAssets.props
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.build.crowle.props
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.crowle.props
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.crowle.props
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets.pack.json
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets.build.json
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\staticwebassets.development.json
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\scopedcss\bundle\crowle.styles.css
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.csproj.CopyComplete
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.dll
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\refint\crowle.dll
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.pdb
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\crowle.genruntimeconfig.cache
+D:\prj cod\Site\crowle\crowle\obj\Debug\net6.0\ref\crowle.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\HtmlAgilityPack.CssSelectors.NetCore.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\prj cod\Site\crowle\crowle\bin\Debug\net6.0\web.config

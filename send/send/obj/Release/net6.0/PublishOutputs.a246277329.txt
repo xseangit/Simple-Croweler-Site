@@ -1,0 +1,5 @@
+C:\Users\aliha\Desktop\send\send\bin\Release\net6.0\publish\send.exe
+C:\Users\aliha\Desktop\send\send\bin\Release\net6.0\publish\send.dll
+C:\Users\aliha\Desktop\send\send\bin\Release\net6.0\publish\send.deps.json
+C:\Users\aliha\Desktop\send\send\bin\Release\net6.0\publish\send.runtimeconfig.json
+C:\Users\aliha\Desktop\send\send\bin\Release\net6.0\publish\send.pdb

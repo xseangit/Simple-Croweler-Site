@@ -1,0 +1,478 @@
+[2023-02-07T13:33:46.448Z, PID: 21500] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 21500. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:33:46.766Z, PID: 21500] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:33:47.560Z, PID: 21500] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:33:47.651Z, PID: 21500] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:33:47.823Z, PID: 21500] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:33:48.004Z, PID: 21500] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:33:48.472Z, PID: 21500] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:33:48.732Z, PID: 21500] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:33:48.911Z, PID: 21500] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:33:49.126Z, PID: 21500] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:33:49.316Z, PID: 21500] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:33:49.496Z, PID: 21500] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:33:49.854Z, PID: 21500] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:33:50.067Z, PID: 21500] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:33:50.247Z, PID: 21500] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:33:50.416Z, PID: 21500] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:33:50.586Z, PID: 21500] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:33:50.755Z, PID: 21500] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:33:51.091Z, PID: 21500] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:33:51.394Z, PID: 21500] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:33:51.540Z, PID: 21500] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:33:51.767Z, PID: 21500] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:33:51.923Z, PID: 21500] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:33:52.092Z, PID: 21500] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:33:52.807Z, PID: 21500] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 21500. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:33:53.087Z, PID: 21500] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:33:53.299Z, PID: 21500] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:33:53.513Z, PID: 21500] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:33:53.514Z, PID: 21500] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:33:54.250Z, PID: 21500] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:33:54.397Z, PID: 21500] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:33:54.533Z, PID: 21500] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:33:54.595Z, PID: 21500] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:33:54.757Z, PID: 21500] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:33:54.893Z, PID: 21500] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:33:55.406Z, PID: 21500] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:33:55.579Z, PID: 21500] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T13:33:55.654Z, PID: 21500] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:33:55.735Z, PID: 21500] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:33:55.781Z, PID: 21500] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:33:55.817Z, PID: 21500] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:33:55.875Z, PID: 21500] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T13:33:55.933Z, PID: 21500] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:33:56.025Z, PID: 21500] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:33:56.094Z, PID: 21500] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T13:33:56.185Z, PID: 21500] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:34:01.164Z, PID: 21500] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T13:34:01.332Z, PID: 21500] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T13:34:01.499Z, PID: 21500] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:34:01.589Z, PID: 21500] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[2023-02-07T13:34:01.708Z, PID: 21500] [aspnetcorev2_inprocess.dll] Removing Request 1
+[2023-02-07T13:34:01.736Z, PID: 21500] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-02-07T13:34:01.755Z, PID: 21500] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:35:33.070Z, PID: 13352] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 13352. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:35:33.596Z, PID: 13352] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:35:33.678Z, PID: 13352] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:35:33.724Z, PID: 13352] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:35:33.805Z, PID: 13352] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:35:33.852Z, PID: 13352] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:35:33.921Z, PID: 13352] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:35:33.990Z, PID: 13352] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:35:34.048Z, PID: 13352] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:35:34.198Z, PID: 13352] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:35:34.253Z, PID: 13352] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:35:34.311Z, PID: 13352] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:35:34.425Z, PID: 13352] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:35:34.748Z, PID: 13352] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:35:35.017Z, PID: 13352] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:35:35.120Z, PID: 13352] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:35:35.167Z, PID: 13352] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:35:35.236Z, PID: 13352] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:35:35.316Z, PID: 13352] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:35:35.396Z, PID: 13352] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:35:35.499Z, PID: 13352] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:35:35.580Z, PID: 13352] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:35:35.660Z, PID: 13352] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:35:35.754Z, PID: 13352] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:35:36.378Z, PID: 13352] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 13352. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:35:36.623Z, PID: 13352] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:35:36.714Z, PID: 13352] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:35:36.771Z, PID: 13352] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:35:36.772Z, PID: 13352] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:35:36.921Z, PID: 13352] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:35:37.023Z, PID: 13352] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:35:37.114Z, PID: 13352] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:35:37.748Z, PID: 13352] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:35:38.029Z, PID: 13352] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:35:38.133Z, PID: 13352] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:35:38.190Z, PID: 13352] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:35:38.238Z, PID: 13352] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T13:35:38.328Z, PID: 13352] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:35:38.409Z, PID: 13352] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:35:38.927Z, PID: 13352] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:35:39.102Z, PID: 13352] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:35:39.194Z, PID: 13352] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T13:35:39.252Z, PID: 13352] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:35:39.298Z, PID: 13352] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:35:39.357Z, PID: 13352] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T13:35:39.437Z, PID: 13352] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:35:41.132Z, PID: 13352] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T13:35:41.272Z, PID: 13352] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T13:35:41.512Z, PID: 13352] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:36:37.932Z, PID: 13352] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-02-07T13:36:38.010Z, PID: 13352] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:36:38.193Z, PID: 13352] [aspnetcorev2_inprocess.dll] Removing Request 0
+[2023-02-07T13:51:52.446Z, PID: 22256] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 22256. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:51:52.710Z, PID: 22256] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:51:52.795Z, PID: 22256] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:51:52.975Z, PID: 22256] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:51:53.066Z, PID: 22256] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:51:53.564Z, PID: 22256] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:51:53.877Z, PID: 22256] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:51:54.066Z, PID: 22256] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:51:54.126Z, PID: 22256] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:51:54.231Z, PID: 22256] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:51:54.387Z, PID: 22256] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:51:54.434Z, PID: 22256] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:51:54.800Z, PID: 22256] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:51:54.888Z, PID: 22256] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:51:55.062Z, PID: 22256] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:51:55.177Z, PID: 22256] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:51:55.269Z, PID: 22256] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:51:55.453Z, PID: 22256] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:51:55.611Z, PID: 22256] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:51:55.687Z, PID: 22256] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:51:55.778Z, PID: 22256] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:51:55.838Z, PID: 22256] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:51:56.112Z, PID: 22256] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:51:56.259Z, PID: 22256] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:51:56.350Z, PID: 22256] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 22256. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:51:56.417Z, PID: 22256] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:51:56.636Z, PID: 22256] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:51:56.723Z, PID: 22256] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:51:56.723Z, PID: 22256] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:51:56.861Z, PID: 22256] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:51:57.029Z, PID: 22256] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:51:57.087Z, PID: 22256] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:51:57.134Z, PID: 22256] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:51:57.214Z, PID: 22256] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:51:57.599Z, PID: 22256] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:51:57.734Z, PID: 22256] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:51:57.804Z, PID: 22256] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T13:51:57.884Z, PID: 22256] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:51:57.953Z, PID: 22256] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:51:58.011Z, PID: 22256] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:51:58.215Z, PID: 22256] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:51:58.361Z, PID: 22256] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T13:51:58.452Z, PID: 22256] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:51:58.565Z, PID: 22256] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:51:58.938Z, PID: 22256] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T13:51:59.313Z, PID: 22256] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:52:01.299Z, PID: 22256] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T13:52:01.824Z, PID: 22256] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T13:52:01.936Z, PID: 22256] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:54:30.151Z, PID: 20984] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 20984. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:54:30.425Z, PID: 20984] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:54:30.576Z, PID: 20984] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:54:30.744Z, PID: 20984] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:54:30.914Z, PID: 20984] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:54:31.105Z, PID: 20984] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:54:31.285Z, PID: 20984] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:54:31.638Z, PID: 20984] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:54:31.835Z, PID: 20984] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:54:32.106Z, PID: 20984] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:54:32.290Z, PID: 20984] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:54:32.470Z, PID: 20984] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:54:32.600Z, PID: 20984] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:54:33.024Z, PID: 20984] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:54:33.183Z, PID: 20984] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:54:33.285Z, PID: 20984] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:54:33.421Z, PID: 20984] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:54:33.578Z, PID: 20984] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:54:33.715Z, PID: 20984] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:54:33.839Z, PID: 20984] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:54:33.997Z, PID: 20984] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:54:34.744Z, PID: 20984] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:54:34.922Z, PID: 20984] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:54:35.070Z, PID: 20984] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:54:35.243Z, PID: 20984] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 20984. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:54:35.407Z, PID: 20984] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:54:35.871Z, PID: 20984] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:54:36.017Z, PID: 20984] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:54:36.017Z, PID: 20984] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:54:36.289Z, PID: 20984] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:54:36.469Z, PID: 20984] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:54:36.605Z, PID: 20984] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:54:36.761Z, PID: 20984] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:54:37.230Z, PID: 20984] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:54:37.395Z, PID: 20984] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:54:37.546Z, PID: 20984] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:54:37.700Z, PID: 20984] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T13:54:37.857Z, PID: 20984] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:54:38.004Z, PID: 20984] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:54:38.162Z, PID: 20984] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:54:38.791Z, PID: 20984] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:54:38.940Z, PID: 20984] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T13:54:39.064Z, PID: 20984] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:54:39.199Z, PID: 20984] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:54:39.347Z, PID: 20984] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T13:54:39.482Z, PID: 20984] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:54:41.844Z, PID: 20984] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T13:54:41.978Z, PID: 20984] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T13:54:42.100Z, PID: 20984] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:56:10.743Z, PID: 25996] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 25996. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:56:12.526Z, PID: 25996] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:56:13.037Z, PID: 25996] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:56:13.387Z, PID: 25996] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:56:13.588Z, PID: 25996] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:56:13.813Z, PID: 25996] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:56:14.071Z, PID: 25996] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:56:14.570Z, PID: 25996] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:56:14.815Z, PID: 25996] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:56:15.156Z, PID: 25996] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:56:16.089Z, PID: 25996] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:56:16.467Z, PID: 25996] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:56:16.633Z, PID: 25996] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:56:17.154Z, PID: 25996] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:56:17.320Z, PID: 25996] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:56:17.524Z, PID: 25996] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:56:17.703Z, PID: 25996] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:56:17.860Z, PID: 25996] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:56:18.052Z, PID: 25996] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:56:18.792Z, PID: 25996] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:56:18.958Z, PID: 25996] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:56:19.105Z, PID: 25996] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:56:19.368Z, PID: 25996] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:56:19.907Z, PID: 25996] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:56:20.096Z, PID: 25996] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 25996. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:56:20.227Z, PID: 25996] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:56:20.388Z, PID: 25996] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:56:20.535Z, PID: 25996] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:56:20.536Z, PID: 25996] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:56:20.847Z, PID: 25996] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:56:21.327Z, PID: 25996] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:56:21.483Z, PID: 25996] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:56:21.632Z, PID: 25996] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:56:21.787Z, PID: 25996] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:56:21.935Z, PID: 25996] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:56:22.081Z, PID: 25996] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:56:22.446Z, PID: 25996] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T13:56:22.614Z, PID: 25996] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:56:22.795Z, PID: 25996] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:56:22.960Z, PID: 25996] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:56:23.144Z, PID: 25996] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:56:23.302Z, PID: 25996] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T13:56:23.482Z, PID: 25996] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:56:23.781Z, PID: 25996] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:56:23.980Z, PID: 25996] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T13:56:24.127Z, PID: 25996] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:56:25.996Z, PID: 25996] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T13:56:26.170Z, PID: 25996] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T13:56:26.532Z, PID: 25996] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:57:14.140Z, PID: 18656] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 18656. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:57:14.421Z, PID: 18656] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:57:14.557Z, PID: 18656] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:57:14.682Z, PID: 18656] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:57:14.817Z, PID: 18656] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:57:14.953Z, PID: 18656] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:57:15.100Z, PID: 18656] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:57:15.700Z, PID: 18656] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:57:16.038Z, PID: 18656] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:57:16.312Z, PID: 18656] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:57:16.443Z, PID: 18656] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:57:16.623Z, PID: 18656] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:57:17.271Z, PID: 18656] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:57:17.439Z, PID: 18656] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:57:17.564Z, PID: 18656] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:57:17.700Z, PID: 18656] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:57:17.858Z, PID: 18656] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:57:18.004Z, PID: 18656] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:57:18.563Z, PID: 18656] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:57:18.709Z, PID: 18656] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:57:18.878Z, PID: 18656] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:57:19.072Z, PID: 18656] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:57:19.261Z, PID: 18656] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:57:19.421Z, PID: 18656] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:57:19.678Z, PID: 18656] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 18656. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:57:19.846Z, PID: 18656] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:57:19.915Z, PID: 18656] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:57:20.007Z, PID: 18656] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:57:20.007Z, PID: 18656] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:57:20.100Z, PID: 18656] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:57:20.147Z, PID: 18656] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:57:20.238Z, PID: 18656] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:57:20.285Z, PID: 18656] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:57:20.343Z, PID: 18656] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:57:20.401Z, PID: 18656] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:57:20.459Z, PID: 18656] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:57:20.506Z, PID: 18656] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T13:57:20.597Z, PID: 18656] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:57:20.655Z, PID: 18656] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:57:20.701Z, PID: 18656] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:57:20.900Z, PID: 18656] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:57:20.966Z, PID: 18656] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T13:57:21.035Z, PID: 18656] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:57:21.137Z, PID: 18656] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:57:21.206Z, PID: 18656] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T13:57:21.275Z, PID: 18656] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T13:57:23.218Z, PID: 18656] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T13:57:23.304Z, PID: 18656] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T13:57:23.360Z, PID: 18656] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T13:59:56.256Z, PID: 2368] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 2368. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T13:59:56.678Z, PID: 2368] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:59:56.723Z, PID: 2368] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T13:59:56.759Z, PID: 2368] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:59:56.817Z, PID: 2368] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:59:56.875Z, PID: 2368] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:59:56.944Z, PID: 2368] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T13:59:57.002Z, PID: 2368] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T13:59:57.116Z, PID: 2368] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T13:59:57.240Z, PID: 2368] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T13:59:57.298Z, PID: 2368] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T13:59:57.356Z, PID: 2368] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:59:57.437Z, PID: 2368] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T13:59:57.494Z, PID: 2368] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:59:57.902Z, PID: 2368] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T13:59:58.027Z, PID: 2368] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:59:58.096Z, PID: 2368] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T13:59:58.164Z, PID: 2368] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:59:58.244Z, PID: 2368] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:59:58.313Z, PID: 2368] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T13:59:58.382Z, PID: 2368] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T13:59:58.485Z, PID: 2368] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T13:59:58.555Z, PID: 2368] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T13:59:58.636Z, PID: 2368] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T13:59:58.705Z, PID: 2368] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 2368. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T13:59:58.806Z, PID: 2368] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T13:59:58.908Z, PID: 2368] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:59:59.504Z, PID: 2368] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T13:59:59.504Z, PID: 2368] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T13:59:59.664Z, PID: 2368] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T13:59:59.767Z, PID: 2368] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T13:59:59.814Z, PID: 2368] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T13:59:59.861Z, PID: 2368] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T13:59:59.929Z, PID: 2368] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T13:59:59.999Z, PID: 2368] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T14:00:00.068Z, PID: 2368] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:00:00.149Z, PID: 2368] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T14:00:00.217Z, PID: 2368] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T14:00:00.379Z, PID: 2368] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:00:00.517Z, PID: 2368] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:00:00.799Z, PID: 2368] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T14:00:01.076Z, PID: 2368] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T14:00:01.312Z, PID: 2368] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T14:00:01.536Z, PID: 2368] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T14:00:01.863Z, PID: 2368] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T14:00:02.323Z, PID: 2368] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T14:00:06.683Z, PID: 2368] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T14:00:06.983Z, PID: 2368] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T14:00:07.063Z, PID: 2368] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T14:03:50.286Z, PID: 10248] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 10248. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T14:03:50.598Z, PID: 10248] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:03:50.846Z, PID: 10248] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T14:03:51.309Z, PID: 10248] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T14:03:51.478Z, PID: 10248] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:03:51.636Z, PID: 10248] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T14:03:51.805Z, PID: 10248] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T14:03:51.951Z, PID: 10248] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T14:03:52.087Z, PID: 10248] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T14:03:52.291Z, PID: 10248] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T14:03:52.632Z, PID: 10248] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T14:03:52.778Z, PID: 10248] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:03:52.914Z, PID: 10248] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T14:03:53.104Z, PID: 10248] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:03:53.274Z, PID: 10248] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T14:03:53.410Z, PID: 10248] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:03:53.546Z, PID: 10248] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T14:03:53.912Z, PID: 10248] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:03:54.089Z, PID: 10248] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:03:54.224Z, PID: 10248] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T14:03:54.382Z, PID: 10248] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T14:03:54.531Z, PID: 10248] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T14:03:54.666Z, PID: 10248] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T14:03:54.825Z, PID: 10248] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T14:03:55.278Z, PID: 10248] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 10248. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T14:03:55.501Z, PID: 10248] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T14:03:55.636Z, PID: 10248] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:03:55.806Z, PID: 10248] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T14:03:55.807Z, PID: 10248] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T14:03:56.099Z, PID: 10248] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:03:56.235Z, PID: 10248] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:03:56.846Z, PID: 10248] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T14:03:56.991Z, PID: 10248] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:03:57.149Z, PID: 10248] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T14:03:57.285Z, PID: 10248] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T14:03:57.421Z, PID: 10248] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:03:57.557Z, PID: 10248] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T14:03:58.018Z, PID: 10248] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T14:03:58.211Z, PID: 10248] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:03:58.368Z, PID: 10248] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:03:58.526Z, PID: 10248] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T14:03:58.684Z, PID: 10248] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T14:03:58.863Z, PID: 10248] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T14:03:59.078Z, PID: 10248] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T14:03:59.627Z, PID: 10248] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T14:03:59.844Z, PID: 10248] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T14:04:01.758Z, PID: 10248] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T14:04:02.038Z, PID: 10248] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T14:04:02.301Z, PID: 10248] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[2023-02-07T14:06:55.800Z, PID: 10248] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[2023-02-07T14:07:04.829Z, PID: 10248] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 3
+[2023-02-07T14:09:49.560Z, PID: 10248] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 4
+[2023-02-07T14:11:43.749Z, PID: 19716] [aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 19716. File Version: 17.0.22116.0. Description: IIS ASP.NET Core Module V2. Commit: bd6dbc1f547a28d02fadfe082936e77e56b61a4e.
+[2023-02-07T14:11:43.870Z, PID: 19716] [aspnetcorev2.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:11:44.595Z, PID: 19716] [aspnetcorev2.dll] Known dotnet.exe location: ''
+[2023-02-07T14:11:44.914Z, PID: 19716] [aspnetcorev2.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T14:11:45.154Z, PID: 19716] [aspnetcorev2.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:11:45.457Z, PID: 19716] [aspnetcorev2.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T14:11:45.626Z, PID: 19716] [aspnetcorev2.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T14:11:45.806Z, PID: 19716] [aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[2023-02-07T14:11:45.986Z, PID: 19716] [aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[2023-02-07T14:11:46.224Z, PID: 19716] [aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+C:\Program Files (x86)\dotnet\dotnet.exe
+'
+[2023-02-07T14:11:46.413Z, PID: 19716] [aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[2023-02-07T14:11:46.483Z, PID: 19716] [aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:11:46.552Z, PID: 19716] [aspnetcorev2.dll] Binary type 6
+[2023-02-07T14:11:46.770Z, PID: 19716] [aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:11:46.827Z, PID: 19716] [aspnetcorev2.dll] hostfxr.dotnet_root: 'C:\Program Files\dotnet'
+[2023-02-07T14:11:46.885Z, PID: 19716] [aspnetcorev2.dll] hostfxr.assembly_path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:11:46.932Z, PID: 19716] [aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T14:11:47.001Z, PID: 19716] [aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:11:47.048Z, PID: 19716] [aspnetcorev2.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:11:47.106Z, PID: 19716] [aspnetcorev2.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T14:11:47.141Z, PID: 19716] [aspnetcorev2.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T14:11:47.212Z, PID: 19716] [aspnetcorev2.dll] Canceling standard stream pipe reader
+[2023-02-07T14:11:47.281Z, PID: 19716] [aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'
+[2023-02-07T14:11:47.328Z, PID: 19716] [aspnetcorev2.dll] Creating handler application
+[2023-02-07T14:11:47.375Z, PID: 19716] [aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.12\aspnetcorev2_inprocess.dll'. Process Id: 19716. File Version: 16.0.22325.12. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 54142bcb25544b72fac28b1b061e7788c91c4f49.
+[2023-02-07T14:11:47.443Z, PID: 19716] [aspnetcorev2_inprocess.dll] Waiting for initialization
+[2023-02-07T14:11:47.500Z, PID: 19716] [aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:11:47.581Z, PID: 19716] [aspnetcorev2_inprocess.dll] Starting file watcher thread
+[2023-02-07T14:11:47.582Z, PID: 19716] [aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[2023-02-07T14:11:47.708Z, PID: 19716] [aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' arguments: '.\ir.news.xsean.dll' path: 'D:\prj cod\Site\ir.news.xsean\'
+[2023-02-07T14:11:47.788Z, PID: 19716] [aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:11:47.857Z, PID: 19716] [aspnetcorev2_inprocess.dll] Process path 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[2023-02-07T14:11:48.085Z, PID: 19716] [aspnetcorev2_inprocess.dll] Checking application.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:11:48.401Z, PID: 19716] [aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll'
+[2023-02-07T14:11:48.469Z, PID: 19716] [aspnetcorev2_inprocess.dll] hostfxr.dll not found at 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\hostfxr.dll', treating application as portable with launcher
+[2023-02-07T14:11:48.572Z, PID: 19716] [aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:11:48.642Z, PID: 19716] [aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll'
+[2023-02-07T14:11:48.721Z, PID: 19716] [aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll' arguments:
+[2023-02-07T14:11:48.801Z, PID: 19716] [aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[2023-02-07T14:11:48.859Z, PID: 19716] [aspnetcorev2_inprocess.dll] Argument[1] = 'D:\prj cod\Site\ir.news.xsean\bin\Debug\net6.0\ir.news.xsean.dll'
+[2023-02-07T14:11:48.917Z, PID: 19716] [aspnetcorev2_inprocess.dll] Argument[2] = '.\ir.news.xsean.dll'
+[2023-02-07T14:11:48.986Z, PID: 19716] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[2023-02-07T14:11:49.044Z, PID: 19716] [aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T14:11:49.102Z, PID: 19716] [aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\7.0.1\hostfxr.dll
+[2023-02-07T14:11:49.171Z, PID: 19716] [aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[2023-02-07T14:11:49.218Z, PID: 19716] [aspnetcorev2_inprocess.dll] Setting current directory to D:\prj cod\Site\ir.news.xsean\
+[2023-02-07T14:11:50.785Z, PID: 19716] [aspnetcorev2_inprocess.dll] In-process callbacks set
+[2023-02-07T14:11:51.119Z, PID: 19716] [aspnetcorev2_inprocess.dll] Event Log: 'Application 'D:\prj cod\Site\ir.news.xsean\' started successfully.' 
+End Event Log Message.
+[2023-02-07T14:11:51.275Z, PID: 19716] [aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1

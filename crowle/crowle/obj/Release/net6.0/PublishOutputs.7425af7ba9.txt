@@ -1,0 +1,16 @@
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\crowle.exe
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\web.config
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\crowle.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\crowle.runtimeconfig.json
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\crowle.pdb
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\HtmlAgilityPack.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\HtmlAgilityPack.CssSelectors.NetCore.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\System.Xml.XPath.XmlDocument.dll
+D:\prj cod\Site\crowle\crowle\obj\Release\net6.0\PubTmp\Out\crowle.deps.json

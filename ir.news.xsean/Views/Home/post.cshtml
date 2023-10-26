@@ -1,0 +1,72 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+
+<div class="single_post">
+    <div class="container-fluid">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <div class="post_img">
+                        @{
+                            //string base64String; using (var client = new HttpClient()) { var bytes = await client.GetByteArrayAsync(ViewBag.newss.titleimg); base64String = "data:image/png;base64," + Convert.ToBase64String(bytes); } <img src="@base64String" alt="">
+                        }
+
+                        <img src="@ViewBag.newss.titleimgdo" alt="">
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+            <div class="posts_meta text-center">
+                @{
+                    int i = 0;
+                    if (ViewBag.newss.coment != null)
+                    {
+                        foreach (var c in ViewBag.newss.coment)
+                        {
+                            i++;
+                        }
+                    }
+                }
+                <span><i class="fa fa-comment-o"></i>@i</span>
+                <span><i class="fa fa-archive"></i>@ViewBag.cat</span>
+                <span><i class="fa fa-calendar"></i>@ViewBag.newss.datetime</span>
+                <span><a href="@ViewBag.newss.url">@ViewBag.newss.url</a></span>
+            </div>
+            <div class="post_content">
+                <h4>@ViewBag.newss.title</h4>
+               @Html.Raw(ViewBag.newss.news)
+            </div>
+            <div class="comments_form">
+                <h5>دیدگاه شما </h5>
+                <form>
+                    <div class="form-row">
+                        <div class="col-md-6">
+                            <input type="text" class="form-control" placeholder="نام شما">
+                        </div>
+                        <div class="col-md-6">
+                            <input type="email" class="form-control" placeholder="ایمیل">
+                        </div>
+                        <div class="col-md-12">
+                            <textarea class="form-control" placeholder="نظر شما ..."></textarea>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="text-left">
+                                <button class="btn btn-primary">ثبت نظر</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
